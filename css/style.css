@@ -1,0 +1,58 @@
+h1,h2,h3,h4,h5,h6,p,ol,ul,p{
+    margin:0;
+    padding:0;
+}
+.main-banner{
+    background-image:url("../images/main-banner2.png");
+    height:820px;
+}
+.bg-img{
+    background-position:bottom;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+//.inner-banner{
+    border:1px solid red;
+    width:500px;
+    //height:100%;
+    padding:70px 0 370px 100px;
+}
+.seven-banner{
+    padding-top:70px;
+    padding-bottom:370px;
+}
+.logo{
+    padding-bottom:80px;
+}
+.heading-lg{
+    color:#fff;
+    font-size:50px;
+}
+.para-banner{
+    color:#fff;
+    font-size:14px;
+    padding-top:10px;
+}
+.section-01{
+   
+    margin-top:30px;
+    padding-bottom:30px;
+    text-align:justify;
+}
+@media screen and (max-width:680px){
+    .section-01{
+         padding-top:100px;
+    }
+}
+.h-01{
+ padding-bottom:10px;   
+}
+.para-01{
+    padding-bottom:10px;
+}
+.one-01{
+    margin-top:-100px;
+}
+.section-02{
+    //padding-top:400px;
+}
